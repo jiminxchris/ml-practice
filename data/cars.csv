@@ -1,0 +1,301 @@
+Brand,Model,Year,Mileage,EngineSize,FuelType,Color,Region,ConditionDesc,SellerType,Price
+Ford,Escape,2001.0,287486.0,4.80024786820322,Diesel,Black,Daejeon,like new,Dealer,580
+Mercedes,E-Class,2014.0,168229.0,4.802428587750224,Gasoline,White,Seoul,nan,Dealer,1835
+Mercedes,E-Class,2023.0,106081.0,3.2937515524931444,Gasoline,Red,Incheon,engine issue,Dealer,2226
+Kia,Sorento,2009.0,89045.0,3.527348848679197,Gasoline,nan,Daegu,minor scratch on bumper,Dealer,1050
+Ford,Escape,2005.0,34698.0,2.793782087913279,Hybrid,Black,Seoul,nan,Private,1290
+Hyundai,Sonata,2002.0,110078.0,2.172843086792258,Hybrid,White,Daegu,nan,Private,887
+Ford,Explorer,2023.0,22671.0,2.314658181479664,EV,Black,Daegu,regular maintenance done,Private,2058
+Hyundai,Grandeur,2015.0,86202.0,3.6900738243081537,Gasoline,nan,Incheon,minor scratch on bumper,Private,1253
+Mercedes,E-Class,2001.0,51663.0,4.00949811775072,Diesel,Gray,Daejeon,dashboard damage,Private,1371
+BMW,X5,2020.0,15708.0,4.166316174903394,Hybrid,Black,Busan,noise in suspension,Private,2342
+Kia,Morning,2013.0,133883.0,4.158472571178216,Gasoline,Gray,Daejeon,regular maintenance done,Private,1028
+Mercedes,C-Class,2017.0,112547.0,1.3648244121947615,Gasoline,Red,Incheon,accident history,Private,1782
+Kia,Sportage,2005.0,34754.0,2.977681218810326,Diesel,White,Incheon,needs painting,Dealer,1099
+Mercedes,C-Class,2005.0,226814.0,1.2302350400665771,Diesel,Silver,Incheon,nan,Dealer,772
+Mercedes,E-Class,2018.0,,3.198115529294942,Hybrid,Black,Seoul,minor scratch on bumper,Private,1983
+Hyundai,Tucson,2015.0,,2.766122005493508,Gasoline,Silver,Daejeon,perfect condition,Dealer,1371
+BMW,3-Series,1998.0,133983.0,4.5508167310331995,Diesel,Red,Daejeon,slight dent,Dealer,1018
+Hyundai,Grandeur,2002.0,214835.0,2.4036600502083147,Gasoline,Black,nan,slight dent,Private,594
+Ford,Explorer,,84896.0,1.4682680657104235,Gasoline,nan,Daegu,accident history,Dealer,1292
+Mercedes,C-Class,1997.0,71295.0,1.5719667282113434,Gasoline,Blue,Daegu,like new,Dealer,1019
+BMW,X5,2016.0,219686.0,4.046042526869889,Hybrid,Silver,Incheon,dashboard damage,Dealer,1663
+Hyundai,Tucson,2015.0,273255.0,3.4728722532650442,Diesel,Black,Daejeon,nan,Private,872
+BMW,X5,1996.0,299648.0,1.404490704491161,Diesel,Silver,Incheon,engine issue,Dealer,253
+Kia,K5,2018.0,132874.0,1.3364272244599897,Gasoline,Black,Seoul,no major problems,Private,1167
+Mercedes,E-Class,2006.0,8155.0,3.80387652583648,Hybrid,White,Daegu,accident history,Dealer,1943
+Kia,Sportage,2024.0,47254.0,1.291052025456774,Gasoline,Gray,Incheon,minor scratch on bumper,Dealer,1644
+Ford,Escape,2000.0,284062.0,4.287440237161425,Hybrid,Silver,Incheon,accident history,Dealer,651
+Hyundai,Avante,,85981.0,3.824968908625985,Gasoline,Blue,Seoul,accident history,Dealer,1201
+Mercedes,GLC,2022.0,30306.0,1.325395122567599,Gasoline,Blue,Busan,nan,Dealer,2504
+Mercedes,C-Class,2015.0,147718.0,1.3393508563407677,Gasoline,Red,Daejeon,nan,Private,1421
+BMW,X3,1995.0,120975.0,4.946558314004702,Gasoline,Black,Busan,nan,Private,873
+Kia,Sportage,2006.0,107512.0,2.4970831830244813,Diesel,Silver,Daegu,noise in suspension,Dealer,883
+Kia,K5,2020.0,147443.0,2.4825685882675637,Diesel,Red,Incheon,needs painting,Private,1125
+Hyundai,Tucson,2016.0,133121.0,4.25119826903001,Gasoline,Silver,Seoul,engine issue,Private,1365
+Kia,Sorento,2023.0,162688.0,4.788994309535434,Hybrid,Black,Seoul,nan,Private,1409
+Mercedes,C-Class,2006.0,283076.0,4.944004255291484,Gasoline,Blue,Daejeon,needs painting,Private,998
+Hyundai,Tucson,2019.0,117796.0,4.0135127410357665,Diesel,White,Busan,no major problems,Dealer,1475
+Mercedes,GLE,2011.0,291999.0,2.505038342123663,Hybrid,Blue,Daejeon,perfect condition,Dealer,1217
+Mercedes,C-Class,2021.0,192506.0,1.334002866794675,Diesel,Red,Incheon,no major problems,Dealer,1695
+Mercedes,GLE,2021.0,174088.0,4.108587663709747,Gasoline,Gray,Daejeon,engine issue,Dealer,2270
+Hyundai,Tucson,2004.0,269544.0,3.23361699894322,Hybrid,White,Seoul,engine issue,Dealer,683
+Mercedes,C-Class,2022.0,173714.0,2.696888036987905,Diesel,Red,Seoul,accident history,Private,1773
+Mercedes,GLE,2022.0,15151.0,4.625417540378944,Gasoline,Black,Daegu,worn tires,Dealer,2824
+Hyundai,Avante,2010.0,66690.0,1.4447899292246054,Gasoline,White,Daegu,perfect condition,Private,942
+Ford,Fusion,2009.0,4499.0,2.9705004171634366,Diesel,nan,Incheon,noise in suspension,Dealer,1320
+BMW,X5,2024.0,6295.0,1.0454145790696763,Diesel,Black,Busan,minor scratch on bumper,Dealer,2275
+Hyundai,Tucson,2024.0,274327.0,2.874642567976505,Diesel,Blue,Daejeon,regular maintenance done,Private,1185
+Ford,Explorer,2009.0,143946.0,1.2252131027273494,Hybrid,Gray,Incheon,no major problems,Dealer,1168
+Ford,Fusion,2024.0,32711.0,1.4752716650722877,Diesel,Black,Daegu,worn tires,Dealer,1719
+Ford,Explorer,2013.0,267683.0,1.4701049871084195,Gasoline,Silver,Daejeon,accident history,Dealer,900
+Hyundai,Avante,2006.0,184423.0,3.5968412084642543,Gasoline,Black,Daegu,slight dent,Private,693
+Ford,Fusion,,179426.0,3.984179517061693,Gasoline,Black,Daejeon,minor scratch on bumper,Dealer,1125
+Mercedes,C-Class,2014.0,,3.3334750603886385,Diesel,Gray,Busan,dashboard damage,Dealer,1870
+Hyundai,Avante,2019.0,213090.0,4.848690193898168,Gasoline,Silver,Incheon,nan,Private,1149
+Kia,Sportage,1997.0,133272.0,2.4994823180948162,Diesel,nan,Daejeon,worn tires,Private,536
+BMW,3-Series,1999.0,243548.0,2.142848345127443,Diesel,Red,Seoul,slight dent,Dealer,509
+Hyundai,Tucson,2013.0,178047.0,4.474396512757841,Hybrid,Black,Seoul,perfect condition,Private,1280
+Mercedes,GLE,2001.0,283501.0,1.8943833540778106,Gasoline,Silver,Daejeon,dashboard damage,Dealer,704
+Hyundai,Grandeur,2015.0,119121.0,4.852890157762445,Hybrid,Silver,Daejeon,accident history,Dealer,1480
+BMW,X5,2003.0,77505.0,1.0486178987592654,Gasoline,Gray,Daejeon,minor scratch on bumper,Dealer,1138
+Mercedes,GLE,2001.0,2869.0,4.879515306830556,Hybrid,Blue,Seoul,minor scratch on bumper,Private,1889
+Hyundai,Sonata,2012.0,257186.0,1.1726396478023045,Gasoline,Red,Seoul,minor scratch on bumper,Dealer,802
+Hyundai,Tucson,1998.0,112296.0,4.564572454792284,Gasoline,Gray,Daejeon,perfect condition,Private,838
+Ford,Fusion,2019.0,94179.0,3.1108044363451994,Diesel,White,Daegu,dashboard damage,Private,1420
+Kia,Morning,2022.0,90272.0,4.971859184477202,Gasoline,Red,Daegu,no major problems,Dealer,1546
+Hyundai,Grandeur,2008.0,38467.0,1.2951862589415954,Gasoline,Gray,Busan,like new,Private,992
+Kia,Sportage,2012.0,285472.0,3.215417137605283,Diesel,Red,Incheon,noise in suspension,Private,705
+Kia,K5,2020.0,135059.0,4.877210142476396,Diesel,Blue,nan,perfect condition,Dealer,1264
+Mercedes,C-Class,2003.0,58871.0,3.0923913766805953,Diesel,White,Seoul,regular maintenance done,Private,1355
+Mercedes,GLC,,128391.0,3.51759455254105,Diesel,Blue,Daegu,like new,Private,1624
+Hyundai,Grandeur,2015.0,86416.0,3.7829947559384687,Diesel,White,Busan,engine issue,Dealer,1235
+Ford,Focus,1996.0,256687.0,2.818164259071093,Gasoline,Black,Busan,accident history,Dealer,346
+Hyundai,Tucson,2014.0,201163.0,3.5102323203362538,Gasoline,Gray,Incheon,perfect condition,Dealer,1170
+Kia,Morning,2022.0,107450.0,3.337257247692401,Gasoline,White,nan,slight dent,Private,1437
+Ford,Explorer,2009.0,171890.0,4.604632041963956,Hybrid,Blue,Seoul,like new,Dealer,1370
+Mercedes,GLC,2022.0,281974.0,1.1817855213658315,Diesel,Red,Seoul,regular maintenance done,Private,1411
+Hyundai,Sonata,2001.0,116381.0,2.1238527583689213,Gasoline,White,Daejeon,engine issue,Private,715
+Kia,K5,2006.0,47333.0,4.801645936306235,Gasoline,Gray,Seoul,no major problems,Dealer,1194
+Kia,Morning,,134508.0,4.561055135563665,Hybrid,White,Incheon,dashboard damage,Private,1039
+Mercedes,E-Class,2002.0,,2.8226270111428517,Gasoline,nan,Incheon,slight dent,Private,1229
+Mercedes,E-Class,2009.0,,3.480530391206147,Diesel,Red,Seoul,like new,Dealer,1580
+BMW,X3,1997.0,292890.0,2.1095247319245307,Diesel,Gray,Seoul,accident history,Dealer,376
+Hyundai,Grandeur,2008.0,49377.0,1.7524846388950452,Diesel,Gray,Daejeon,dashboard damage,Dealer,1048
+Mercedes,C-Class,,136672.0,2.8547936197599286,Gasoline,Black,Seoul,slight dent,Private,1409
+Ford,Escape,1998.0,225732.0,2.4134089121042113,Hybrid,Blue,Daejeon,engine issue,Private,585
+Ford,Focus,2012.0,171836.0,3.3346244474034883,Hybrid,Black,Daejeon,slight dent,Private,1174
+Ford,Explorer,2002.0,,1.3109385478599394,Diesel,Gray,Seoul,dashboard damage,Private,821
+Kia,Sorento,1998.0,45714.0,4.897579230664666,Diesel,Red,Busan,needs painting,Dealer,894
+Ford,Focus,1996.0,102946.0,4.9448429779184115,Hybrid,White,Busan,noise in suspension,Dealer,896
+Ford,Explorer,2024.0,105983.0,3.7926468560789806,Diesel,White,Daejeon,worn tires,Dealer,1900
+Hyundai,Tucson,2000.0,187563.0,3.1443854653764816,Gasoline,Red,Seoul,no major problems,Dealer,657
+BMW,X3,2016.0,124123.0,2.238110465145311,Diesel,Gray,Busan,nan,Dealer,1807
+Hyundai,Avante,2004.0,82989.0,4.255180078827795,Diesel,White,nan,dashboard damage,Dealer,966
+Kia,Sorento,1998.0,298356.0,3.738924690215517,Gasoline,White,Seoul,noise in suspension,Private,312
+Kia,Sportage,2016.0,178274.0,1.6504677573795652,Diesel,White,Seoul,noise in suspension,Dealer,1050
+Kia,Sorento,2023.0,163707.0,4.64370873797537,Hybrid,Blue,Daegu,slight dent,Dealer,1569
+Hyundai,Sonata,2012.0,,4.290148971692676,Hybrid,Blue,Seoul,nan,Private,1316
+Ford,Focus,2020.0,265564.0,4.799199653167696,Gasoline,Silver,Daegu,noise in suspension,Private,1201
+Mercedes,GLE,2006.0,131373.0,3.90287803355344,Gasoline,Black,Daejeon,worn tires,Dealer,1659
+Mercedes,GLE,1996.0,115294.0,3.4536607837431594,EV,Red,Busan,slight dent,Private,1240
+Ford,Escape,2004.0,124019.0,2.6729721451624755,Hybrid,nan,Busan,dashboard damage,Private,1092
+BMW,X5,2024.0,65726.0,4.730913933416053,Gasoline,Red,Busan,nan,Dealer,2347
+Mercedes,C-Class,1998.0,141564.0,4.464255558001634,Hybrid,Silver,Busan,needs painting,Dealer,1151
+BMW,X5,2008.0,268246.0,1.1808746804247576,Hybrid,Blue,Busan,noise in suspension,Dealer,897
+BMW,3-Series,2010.0,181408.0,1.105467897989008,Diesel,Gray,Busan,perfect condition,Dealer,1116
+Mercedes,GLC,2009.0,118015.0,2.5058534675121984,Diesel,Gray,Busan,needs painting,Private,1564
+Hyundai,Grandeur,2002.0,216386.0,4.242213323127332,Gasoline,Silver,Daejeon,slight dent,Dealer,689
+Ford,Focus,2008.0,254079.0,4.949104517259778,Gasoline,Gray,Seoul,no major problems,Private,936
+BMW,X5,2017.0,26641.0,1.6016675644141127,Gasoline,Red,Incheon,perfect condition,Dealer,1920
+BMW,X3,2022.0,,3.3765228614085405,Hybrid,Black,Daegu,engine issue,Dealer,2421
+Hyundai,Tucson,2019.0,163817.0,2.523563426524086,Gasoline,White,Incheon,nan,Private,1221
+BMW,5-Series,2024.0,,4.879657591258413,Gasoline,Blue,Incheon,slight dent,Private,2143
+Kia,Sportage,2002.0,242289.0,4.368475692542835,Gasoline,Blue,Seoul,needs painting,Private,683
+Mercedes,E-Class,2015.0,72991.0,4.353314818844551,Diesel,Silver,Seoul,noise in suspension,Private,1909
+Kia,Sorento,2010.0,4014.0,2.874772639179881,Hybrid,Blue,Seoul,dashboard damage,Private,1233
+Kia,K5,,273237.0,2.6592780093506607,Gasoline,Red,Busan,perfect condition,Dealer,578
+Mercedes,GLE,2012.0,18070.0,2.093628287722825,Gasoline,Gray,Daejeon,regular maintenance done,Dealer,2087
+BMW,3-Series,2009.0,297921.0,1.2255019866037085,Diesel,Red,Busan,like new,Private,689
+BMW,5-Series,2015.0,56958.0,4.458889505020213,Gasoline,Silver,Daejeon,needs painting,Private,1834
+BMW,3-Series,2018.0,82074.0,4.251604036520311,Gasoline,Red,Daejeon,engine issue,Private,1930
+Kia,Sorento,2020.0,10729.0,4.998870693144522,Gasoline,Gray,Incheon,engine issue,Dealer,1687
+BMW,5-Series,2019.0,230785.0,4.9865473482956215,Gasoline,Black,Incheon,minor scratch on bumper,Private,1585
+Hyundai,Tucson,2022.0,176089.0,3.22172682241051,Gasoline,Silver,Daejeon,needs painting,Dealer,1418
+Ford,Focus,2022.0,197392.0,4.075949660722042,Gasoline,Black,Daejeon,like new,Dealer,1409
+Ford,Focus,2022.0,158823.0,4.7790629195297125,Gasoline,White,Busan,accident history,Dealer,1538
+Kia,Sportage,2007.0,105864.0,4.398589562709645,Hybrid,Black,Busan,noise in suspension,Dealer,1249
+Ford,Escape,2003.0,209141.0,1.9893924069727906,Gasoline,White,Incheon,worn tires,Private,693
+Ford,Escape,,54748.0,2.802176541240374,Diesel,White,Seoul,dashboard damage,Dealer,1431
+Ford,Fusion,2009.0,5801.0,1.51663766060598,Diesel,Black,Daejeon,like new,Private,1298
+Ford,Focus,2007.0,150262.0,4.8162041090348895,Gasoline,Silver,Busan,worn tires,Private,953
+Ford,Focus,,235362.0,3.42469853780352,Diesel,Gray,Incheon,nan,Dealer,891
+Ford,Explorer,2019.0,,1.9145712220138509,Gasoline,Red,Busan,regular maintenance done,Dealer,1552
+Mercedes,GLE,2001.0,272791.0,3.686802737623427,EV,Red,Daejeon,minor scratch on bumper,Dealer,1061
+Kia,K5,2003.0,139788.0,3.4725129618315833,Gasoline,Gray,Daejeon,like new,Private,731
+Hyundai,Tucson,2018.0,219963.0,2.432650872131362,Gasoline,nan,Daegu,like new,Private,1125
+Kia,Sportage,1995.0,248710.0,1.454230368798516,Gasoline,White,Seoul,regular maintenance done,Dealer,183
+Ford,Fusion,2006.0,220984.0,3.6862927823711984,EV,Silver,Daegu,needs painting,Private,973
+Kia,Sportage,2002.0,258067.0,3.081230803615173,Diesel,Blue,nan,needs painting,Dealer,498
+Kia,Sorento,2018.0,,4.089273566942557,Diesel,Black,Busan,needs painting,Dealer,1356
+BMW,3-Series,2005.0,77575.0,3.0806540044479735,Gasoline,White,Incheon,no major problems,Dealer,1355
+Hyundai,Avante,2013.0,268799.0,4.408726001274161,Diesel,Red,Daejeon,worn tires,Private,795
+Kia,K5,2011.0,237549.0,3.207627355097942,Gasoline,Silver,Daegu,no major problems,Dealer,860
+Hyundai,Avante,2002.0,70031.0,3.243751886141545,Hybrid,Black,Daegu,minor scratch on bumper,Private,939
+Mercedes,C-Class,1997.0,87922.0,4.5066144106333805,Gasoline,Silver,Daegu,dashboard damage,Dealer,1253
+BMW,3-Series,1997.0,124046.0,2.613931464849588,Gasoline,Black,Incheon,nan,Dealer,870
+Kia,Morning,1995.0,32097.0,1.536060913802563,Gasoline,Black,Daejeon,like new,Dealer,676
+BMW,5-Series,2021.0,142038.0,1.115130705253356,Gasoline,Gray,Busan,noise in suspension,Private,1700
+Kia,Sportage,1999.0,124862.0,4.0205490226944764,Diesel,White,Busan,nan,Dealer,708
+Kia,Morning,,230229.0,3.4812382054138586,Gasoline,Silver,Incheon,no major problems,Dealer,831
+Hyundai,Sonata,2001.0,118834.0,3.8163190723968943,Diesel,Silver,Daegu,no major problems,Private,694
+BMW,X5,2020.0,93848.0,1.851856646035643,Gasoline,Gray,Seoul,slight dent,Private,1801
+BMW,X5,2003.0,52921.0,1.545485902347079,Diesel,Red,Incheon,no major problems,Dealer,1241
+Ford,Escape,2022.0,180798.0,1.0581786626715277,Gasoline,Red,nan,dashboard damage,Dealer,1477
+BMW,5-Series,2001.0,126141.0,2.402350235226388,Gasoline,White,Daejeon,accident history,Dealer,1022
+Hyundai,Grandeur,2003.0,181372.0,3.3596707474185323,Diesel,White,Busan,like new,Private,582
+BMW,X3,2002.0,284821.0,2.5689761803989293,Gasoline,Blue,Incheon,accident history,Private,594
+Hyundai,Grandeur,2006.0,55609.0,2.7498996880949163,Gasoline,Gray,Incheon,like new,Dealer,1070
+Mercedes,E-Class,1996.0,227897.0,4.616634777974994,Hybrid,Red,Daegu,regular maintenance done,Private,819
+Hyundai,Tucson,1995.0,31024.0,2.3930218680932014,Hybrid,Black,Daegu,like new,Dealer,866
+Kia,Sorento,2010.0,70313.0,3.055957956639243,Gasoline,Silver,Seoul,accident history,Dealer,1067
+Mercedes,C-Class,2017.0,184078.0,4.134612050964572,Gasoline,White,Daejeon,like new,Dealer,1815
+Ford,Escape,2017.0,113632.0,2.5861711292850806,Diesel,Silver,Seoul,regular maintenance done,Dealer,1493
+Kia,Sorento,2024.0,251451.0,3.488346800911494,Gasoline,Silver,Daegu,regular maintenance done,Dealer,1107
+Mercedes,E-Class,2018.0,3051.0,4.44945483498698,Gasoline,Blue,Busan,minor scratch on bumper,Private,2342
+Ford,Escape,1999.0,,4.7980824946305685,Gasoline,Red,Daegu,like new,Dealer,999
+Mercedes,GLE,1997.0,87235.0,1.5882939237161517,Diesel,White,Daejeon,noise in suspension,Dealer,1094
+Hyundai,Tucson,2006.0,,4.706350500645978,Diesel,Silver,Daegu,slight dent,Dealer,1132
+Kia,K5,2002.0,189407.0,2.9684651723181528,Gasoline,White,Daejeon,needs painting,Private,619
+BMW,3-Series,2016.0,211810.0,2.0329775531958334,Gasoline,nan,Daejeon,engine issue,Dealer,1430
+Kia,Sorento,2021.0,203687.0,2.8365430249530452,Gasoline,Blue,Daejeon,nan,Private,1045
+Kia,K5,1997.0,73523.0,4.920130301141908,Diesel,Black,Daejeon,perfect condition,Dealer,851
+Kia,Morning,1995.0,236175.0,2.9704723759714784,Gasoline,White,Daejeon,needs painting,Dealer,244
+BMW,5-Series,1997.0,94476.0,2.315006441150033,Gasoline,White,Busan,nan,Dealer,975
+BMW,X5,1999.0,233841.0,3.533603417266903,Diesel,Red,Seoul,worn tires,Private,651
+Ford,Escape,,279163.0,1.9605824751127723,Gasoline,Silver,Incheon,like new,Dealer,788
+Kia,K5,2008.0,222866.0,1.3034533124346557,Diesel,Silver,Seoul,accident history,Dealer,638
+Kia,Sportage,1997.0,86672.0,1.515518887642597,Gasoline,Black,Daejeon,engine issue,Private,624
+Kia,K5,1995.0,73847.0,1.5121833558310898,Gasoline,Blue,Busan,perfect condition,Private,515
+BMW,X5,1999.0,210706.0,1.6076107740491774,Gasoline,nan,Daegu,needs painting,Private,624
+Ford,Focus,2020.0,28251.0,1.5553086905976405,Diesel,Silver,Busan,like new,Private,1463
+Mercedes,E-Class,2017.0,103481.0,3.5634989792128584,Hybrid,Red,Daejeon,minor scratch on bumper,Dealer,2111
+Ford,Fusion,,25945.0,1.7275203375965793,Hybrid,Black,Busan,worn tires,Dealer,1385
+Kia,Sorento,2001.0,32217.0,2.382669133295453,Gasoline,Black,Busan,engine issue,Dealer,865
+Kia,Sportage,2021.0,8308.0,4.587153639624047,Diesel,Gray,Daejeon,slight dent,Private,1688
+Mercedes,GLE,2003.0,268093.0,2.8958465610514894,Gasoline,Red,Busan,nan,Private,792
+Ford,Escape,,183062.0,3.6702309540841087,Gasoline,Blue,Incheon,perfect condition,Dealer,1155
+BMW,3-Series,2009.0,220552.0,1.6892794848065193,Hybrid,Red,Incheon,dashboard damage,Private,1073
+Hyundai,Avante,2020.0,,1.769156075234683,Gasoline,Blue,Busan,nan,Dealer,1425
+Hyundai,Sonata,2004.0,74740.0,1.1634744650659155,Gasoline,Red,nan,minor scratch on bumper,Dealer,887
+Mercedes,C-Class,2022.0,225913.0,1.6757402522886582,Gasoline,Red,Daejeon,worn tires,Dealer,1730
+Hyundai,Avante,2007.0,279040.0,2.1143613561278345,Gasoline,White,Incheon,nan,Dealer,619
+BMW,3-Series,2013.0,177247.0,1.7080419371069873,Gasoline,Black,Daegu,minor scratch on bumper,Private,1259
+Hyundai,Sonata,2001.0,138877.0,1.3548101350282225,Diesel,Red,Busan,no major problems,Private,612
+Mercedes,C-Class,2011.0,5237.0,1.4825434844024032,Gasoline,Gray,Daegu,slight dent,Private,1807
+Ford,Fusion,2014.0,20056.0,2.843115072130903,Hybrid,Red,nan,perfect condition,Dealer,1553
+Hyundai,Sonata,2023.0,176615.0,1.82533487362317,Hybrid,Silver,Incheon,dashboard damage,Private,1256
+Ford,Fusion,1998.0,187628.0,2.457079444192302,Gasoline,Black,Busan,worn tires,Private,507
+Ford,Escape,2024.0,114548.0,3.0136690834194275,Gasoline,Silver,Daejeon,noise in suspension,Dealer,1765
+BMW,X5,1999.0,134415.0,3.761579314517461,Gasoline,Black,Busan,like new,Private,953
+BMW,5-Series,2017.0,29375.0,1.1572485593643957,Diesel,Silver,Daejeon,accident history,Private,1732
+BMW,3-Series,2001.0,140734.0,4.197641595636171,Gasoline,Red,Busan,accident history,Private,1056
+Mercedes,GLC,2007.0,16964.0,3.511601557963631,Diesel,Red,Daegu,accident history,Dealer,2013
+Mercedes,C-Class,2009.0,113429.0,1.3270361277954876,Gasoline,White,Daegu,engine issue,Dealer,1429
+Kia,Morning,2005.0,,4.4943144964271085,Diesel,Gray,Daegu,perfect condition,Dealer,904
+Kia,Sportage,2023.0,190710.0,4.683489602127253,Gasoline,Silver,Seoul,worn tires,Private,1422
+Kia,K5,1998.0,216139.0,1.244311839419455,Gasoline,Blue,Daejeon,slight dent,Dealer,334
+Hyundai,Grandeur,2007.0,67215.0,2.107510592588815,Hybrid,White,Daegu,engine issue,Dealer,1177
+Hyundai,Avante,2001.0,144356.0,4.224805119172245,Diesel,Silver,Seoul,perfect condition,Private,727
+Ford,Explorer,2021.0,203861.0,3.9930387615346334,Gasoline,Silver,Daejeon,like new,Dealer,1554
+Kia,Sportage,2013.0,9435.0,1.7380840774255093,Hybrid,White,Busan,no major problems,Private,1422
+BMW,X5,2016.0,175150.0,1.8373972933468412,Gasoline,Red,Seoul,worn tires,Dealer,1603
+Ford,Fusion,2022.0,51293.0,2.481888411165528,Hybrid,Silver,Incheon,accident history,Dealer,1863
+Mercedes,GLE,1996.0,78781.0,2.9380919407640853,Diesel,Red,Seoul,minor scratch on bumper,Private,1164
+BMW,5-Series,2004.0,,3.473019086121184,Gasoline,White,Seoul,noise in suspension,Dealer,1340
+BMW,X5,,160196.0,2.4756545582790896,Gasoline,Red,Daejeon,worn tires,Dealer,1254
+BMW,3-Series,2024.0,226507.0,2.8501388645325916,Gasoline,Black,Busan,regular maintenance done,Dealer,1764
+Ford,Escape,2019.0,239833.0,3.989883752535026,Diesel,Blue,Incheon,dashboard damage,Private,1183
+Kia,K5,2015.0,,1.1467328115623916,Diesel,Silver,Daegu,perfect condition,Private,1028
+BMW,X3,2000.0,166319.0,2.009747777376083,Gasoline,Gray,Daegu,needs painting,Private,911
+Ford,Escape,,121172.0,3.8533983435382098,Gasoline,Blue,Seoul,like new,Dealer,1290
+Hyundai,Tucson,2022.0,59101.0,4.580827350748797,Hybrid,Red,Daejeon,nan,Private,1795
+Ford,Focus,2006.0,288790.0,3.0467097684626645,EV,Silver,Daejeon,like new,Dealer,858
+Hyundai,Tucson,2006.0,23049.0,3.1284539410612626,Diesel,Red,Daegu,worn tires,Dealer,1146
+Mercedes,GLC,2014.0,210677.0,1.4286880453591042,Gasoline,Black,Incheon,needs painting,Private,1371
+Hyundai,Avante,2024.0,68385.0,2.7896494672938186,Gasoline,White,Busan,regular maintenance done,Dealer,1660
+Ford,Fusion,2024.0,126131.0,3.1304690658200927,Gasoline,Silver,Incheon,slight dent,Private,1572
+BMW,5-Series,2005.0,196489.0,1.9698820145389186,Hybrid,Black,Busan,minor scratch on bumper,Dealer,1040
+BMW,X3,2020.0,23289.0,2.076972923797524,Gasoline,Black,Daegu,nan,Dealer,2271
+Hyundai,Grandeur,2017.0,271967.0,2.5091366524184906,Diesel,Silver,Busan,perfect condition,Private,884
+BMW,5-Series,2022.0,191232.0,1.0802847911109055,Gasoline,Red,Daejeon,accident history,Private,1549
+Mercedes,C-Class,2019.0,9540.0,2.288316662332713,Diesel,Gray,Seoul,regular maintenance done,Dealer,2348
+BMW,3-Series,2001.0,16364.0,1.8457920279861786,Diesel,Black,Seoul,minor scratch on bumper,Dealer,1298
+Kia,Morning,2024.0,,2.3099894087116586,Hybrid,Blue,Daegu,noise in suspension,Dealer,1496
+Kia,Sportage,1995.0,51991.0,1.4790485272770049,Gasoline,Black,Daejeon,no major problems,Dealer,644
+Mercedes,C-Class,1995.0,188751.0,4.56210912295958,Gasoline,Gray,Incheon,accident history,Private,836
+BMW,5-Series,2019.0,162049.0,3.3743698142161946,Gasoline,Red,Daejeon,worn tires,Private,1696
+Kia,Morning,2021.0,94704.0,3.7164092765779584,Hybrid,Red,Seoul,needs painting,Private,1429
+Kia,Morning,2024.0,49115.0,4.156684954429354,Hybrid,Blue,Seoul,minor scratch on bumper,Dealer,1731
+Mercedes,GLE,2019.0,219295.0,2.993768795716229,Diesel,Black,Daejeon,dashboard damage,Dealer,1794
+Ford,Escape,2014.0,,1.3476811523496948,Diesel,Red,Daejeon,engine issue,Dealer,1341
+Mercedes,E-Class,2007.0,197459.0,3.148426167274191,Diesel,Gray,Seoul,dashboard damage,Private,1104
+Hyundai,Sonata,2003.0,149143.0,3.3473644720835165,Gasoline,Silver,Incheon,slight dent,Dealer,840
+Kia,Morning,1997.0,190347.0,3.98175789673732,Hybrid,White,Daegu,dashboard damage,Dealer,612
+Ford,Fusion,2001.0,11938.0,2.7266381849187176,Gasoline,White,Daegu,noise in suspension,Dealer,1044
+Ford,Fusion,2000.0,4000.0,1.510321211182255,Gasoline,White,Daejeon,slight dent,Dealer,984
+Hyundai,Avante,2002.0,201660.0,2.135103623194898,Diesel,Black,Daegu,regular maintenance done,Private,495
+Hyundai,Tucson,2021.0,251492.0,2.4523291855945404,Gasoline,Blue,Seoul,no major problems,Private,1150
+Kia,Sorento,2003.0,38304.0,3.583668965326405,Gasoline,Red,Seoul,regular maintenance done,Dealer,1021
+Hyundai,Sonata,2024.0,82986.0,3.2831132186756475,Diesel,Silver,Daejeon,engine issue,Dealer,1570
+Ford,Explorer,1999.0,151836.0,2.424386903591385,Gasoline,Gray,Daejeon,perfect condition,Private,770
+BMW,5-Series,1995.0,108940.0,4.946060995171919,Diesel,Silver,Daejeon,no major problems,Dealer,905
+Hyundai,Grandeur,2013.0,265517.0,3.4230992774275486,Gasoline,Gray,Incheon,dashboard damage,Dealer,891
+Kia,Sportage,2004.0,143233.0,1.948907166943978,Gasoline,Black,Daegu,like new,Dealer,838
+Ford,Explorer,2006.0,97532.0,1.407129890481615,Gasoline,White,Daejeon,perfect condition,Dealer,1052
+Ford,Escape,2018.0,100386.0,1.611436556737328,Gasoline,Black,Busan,no major problems,Private,1465
+Kia,K5,2009.0,27350.0,1.9838309135380325,Diesel,Blue,Busan,no major problems,Dealer,971
+Ford,Escape,2021.0,93008.0,1.6427254930382227,Gasoline,Blue,Seoul,engine issue,Dealer,1730
+Ford,Explorer,2016.0,25351.0,1.746268096205223,Diesel,Gray,Daegu,worn tires,Dealer,1609
+Ford,Focus,2018.0,88668.0,2.1403806747753884,Gasoline,Red,Daejeon,dashboard damage,Dealer,1506
+Ford,Fusion,2003.0,114585.0,1.6934943811790193,Diesel,Red,Busan,engine issue,Dealer,818
+Hyundai,Sonata,2014.0,207869.0,4.587061698505701,Hybrid,Gray,Daegu,no major problems,Private,1124
+Hyundai,Tucson,2011.0,65953.0,1.3209349826465688,Diesel,Blue,Seoul,minor scratch on bumper,Dealer,1096
+BMW,3-Series,2024.0,,3.0980455582810187,Gasoline,Blue,Incheon,perfect condition,Dealer,2097
+BMW,X5,2011.0,3267.0,2.641587307958646,Gasoline,Blue,Daegu,engine issue,Dealer,1715
+Mercedes,GLE,2020.0,82745.0,4.929514467634426,Gasoline,Black,Daegu,worn tires,Dealer,2537
+BMW,3-Series,2014.0,157164.0,1.4481556086722094,Diesel,Blue,Incheon,needs painting,Dealer,1499
+Mercedes,GLC,2006.0,11338.0,2.5914223961829665,Gasoline,Silver,Daegu,nan,Dealer,1818
+Ford,Explorer,2024.0,131484.0,4.877881733101475,Gasoline,White,Seoul,no major problems,Dealer,1775
+BMW,3-Series,2001.0,7543.0,4.462028503575921,Diesel,Blue,Seoul,dashboard damage,Private,1451
+BMW,X3,1996.0,60692.0,4.268288283797119,Gasoline,Gray,Incheon,like new,Private,1307
+Hyundai,Avante,1997.0,220156.0,2.0316113081797593,Diesel,White,Daejeon,needs painting,Dealer,352
+Hyundai,Sonata,2011.0,223992.0,1.6835503495602633,Gasoline,Black,Busan,slight dent,Dealer,818
+Hyundai,Avante,1999.0,38756.0,3.674572879697724,Gasoline,Gray,Daejeon,accident history,Private,860
+BMW,X5,2011.0,18888.0,4.717503956510344,Diesel,White,Daegu,worn tires,Private,1719
+Ford,Explorer,2018.0,166807.0,3.227051572055719,Gasoline,Gray,Busan,like new,Dealer,1411
+Hyundai,Tucson,2011.0,114352.0,3.2864507578795994,Diesel,Black,Incheon,accident history,Private,1106
+Mercedes,C-Class,2021.0,85999.0,2.1199163746411367,Gasoline,Silver,Incheon,worn tires,Private,2020
+BMW,X5,2011.0,17955.0,4.077971732767748,Gasoline,Black,Busan,dashboard damage,Private,1811
+Mercedes,GLC,1996.0,299985.0,1.7481749942300935,Hybrid,Black,Seoul,minor scratch on bumper,Private,417
+BMW,X3,1996.0,70640.0,2.2947169456169747,Diesel,Gray,Busan,dashboard damage,Private,927
+BMW,3-Series,2022.0,196582.0,2.701745754465667,Diesel,Red,Daegu,regular maintenance done,Private,1675
+Kia,Morning,2016.0,219798.0,3.03044151473782,Gasoline,Blue,Seoul,needs painting,Dealer,960
+Ford,Explorer,2017.0,61476.0,1.969638929660321,Diesel,Blue,Incheon,perfect condition,Dealer,1632
+BMW,X3,1999.0,167280.0,1.4593472989568141,Gasoline,Silver,Busan,worn tires,Dealer,826
+Hyundai,Sonata,1995.0,151222.0,3.4424801697665304,Gasoline,Silver,Daejeon,dashboard damage,Dealer,523
+BMW,X5,1995.0,71180.0,2.154522212961023,Hybrid,Blue,Daejeon,perfect condition,Private,964
+Mercedes,GLE,2013.0,174358.0,3.324952885690449,Gasoline,Red,Daegu,regular maintenance done,Private,1647
+Kia,K5,2024.0,112856.0,1.6174508610968092,EV,Blue,Daejeon,no major problems,Dealer,1587
+Hyundai,Tucson,1996.0,186141.0,2.92456040741927,Gasoline,Red,Busan,slight dent,Private,537
+Ford,Explorer,2015.0,110448.0,3.1303577302063434,Gasoline,Silver,Busan,needs painting,Dealer,1501
+Hyundai,Sonata,2006.0,14397.0,1.2072941472897076,Diesel,White,Daejeon,regular maintenance done,Dealer,991
+BMW,X5,2020.0,178031.0,2.3464171127756823,Hybrid,Gray,Busan,regular maintenance done,Dealer,1755
+Kia,K5,2000.0,119180.0,1.537658707755897,Diesel,Silver,Daegu,dashboard damage,Private,585
+Mercedes,GLE,2017.0,66234.0,1.253499881891071,Hybrid,Silver,Seoul,minor scratch on bumper,Private,2163
+Hyundai,Tucson,1998.0,39954.0,4.959840929559781,Diesel,Black,Daegu,accident history,Dealer,937
+Ford,Focus,2017.0,178352.0,2.289415379898892,Diesel,Black,Daegu,slight dent,Private,1166
+Kia,Sorento,2005.0,79459.0,4.239497783418539,Hybrid,Black,Busan,needs painting,Dealer,1045
+Hyundai,Tucson,2018.0,195004.0,2.0185626190550554,Gasoline,Gray,Seoul,no major problems,Dealer,1265
+Mercedes,C-Class,2021.0,200968.0,3.726010888895717,Gasoline,Black,Busan,no major problems,Dealer,1947
+Ford,Escape,2011.0,59163.0,4.040911439558746,Gasoline,Red,Incheon,engine issue,Private,1489
