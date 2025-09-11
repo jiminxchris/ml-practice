@@ -6,6 +6,7 @@ import plotly.express as px
 import seaborn as sns
 import matplotlib.pyplot as plt
 import platform
+import os
 
 # 한글 폰트 설정 (Mac, Windows 자동 감지)
 if platform.system() == 'Darwin': # Mac
@@ -19,7 +20,10 @@ plt.rcParams['axes.unicode_minus'] = False # 마이너스 폰트 깨짐 방지
 # 데이터 로딩 함수 (에러 처리 강화)
 @st.cache_data
 def load_data():
-    file_path = 'crime_anal_merged.csv'
+    #file_path = 'crime_anal_merged.csv'
+    # dataBoard라는 하위 디렉토리에 코드를 업로드 했으므로 상대경로 사용하는것으로 변경
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(script_dir, 'crime_anal_merged.csv')
     try:
         # utf-8 인코딩으로 먼저 시도
         data = pd.read_csv(file_path, encoding='utf-8')
@@ -152,4 +156,5 @@ if df is not None:
                 popup=f"<strong>{row['District']}</strong><br>인구 10만명당 범죄율: {row['Crime_Rate_per_100k']:.2f}",
                 color='#E31A1C', fill=True, fill_color='#E31A1C'
             ).add_to(m)
+
     st_folium(m, width=725, height=500)
